@@ -1,5 +1,5 @@
 # Wizard scoring sheet
-This repository contains the [automatic scoring excel sheet](https://github.com/TomPham97/Wizard-scoring-sheet/raw/main/Wizard-scoring-sheet.xlsx) for [Wizard](https://en.wikipedia.org/wiki/Wizard_\(card_game\)).
+This repository contains the [automatic scoring excel sheet](https://github.com/TomPham97/Wizard-scoring-sheet/raw/main/Wizard-scoring-sheet.xlsx) for a card game called [Wizard](https://en.wikipedia.org/wiki/Wizard_\(card_game\)).
 
 ## How to use
 1. Enter the participants from the foreseeable future into the numbered list on the first 2 columns.
